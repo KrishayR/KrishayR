@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KrishayR
 - 👀 I’m interested in Basketball, Tae-kwon-do, and programming languages like Java, C++, C# 
-- 🌱 I’m currently learning Python, specifically Open-cv, pygame, Django, and Html, JS, CSS
+- 🌱 I’m currently learning Python (specifically Open-cv, pygame, Django, ML), Html, JS, and CSS
