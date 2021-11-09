@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrishayR
 - 👀 I’m interested in...
 
-      - 🌊 Ocean: I love the sea and I try to help replenish it's wildlife whenever I can!. I made a website using HTML and CSS in the summer of 7th and 8th grade: https://helpsavetheseas.com   
+      - 🌊 The Ocean: I love the sea and I try to help replenish it's wildlife whenever I can!. I made a website using HTML and CSS in the summer of 7th and 8th grade: https://helpsavetheseas.com   
 
       - 🏀 Basketball: I love to play basketball with my friends and I also love to watch it! GO WARRIORS!
 
