@@ -9,7 +9,7 @@
       - 🥋 Tae-kwon-do: I've done taekwondo for 4 years, and I have a black belt in it.
 
 
-      - 👨🏽‍💻 Programming!: I enjoy a challenge, so programming is very fun for me. I am interested in learning languages like Java (For backend), Javascript (T0 make interactive sites), and C# (To make games)
+      - 👨🏽‍💻 Programming!: I enjoy a challenge, so programming is very fun for me. I am interested in learning languages like Java (For backend), Javascript (To make interactive sites), and C# (To make games)
 
 
       - I also like to solve puzzles and rubik's cubes, design some games on Unity, and to help people! (Have an active account on StackOverflow: https://stackoverflow.com/users/14771613/krmogi)
