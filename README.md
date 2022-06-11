@@ -13,6 +13,7 @@
 
 
       - I also like to solve puzzles and rubik's cubes, design some games on Unity, and to help people! (Have an active account on StackOverflow: https://stackoverflow.com/users/14771613/krmogi)
-   
-- 🌱 I’m currently learning Advanced Python Concepts for a cert (PCPP), HTML, and CSS.
+  
+- 🎯 Passed 3 Python certifications: PCEP (https://pythoninstitute.org/pcep), PCAP (https://pythoninstitute.org/pcap), and PCPP (https://pythoninstitute.org/pcpp1)
+- 🌱 I’m currently learning Java, HTML, and CSS.
 - 😃 My favorite language is Python because it is so versatile and it can be used to make so many things.
