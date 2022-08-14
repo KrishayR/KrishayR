@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrishayR
+- 👋 Hi, I’m Krishay Rastogi (@KrishayR)
 - 👀 I’m interested in...
 
       - 🌊 The Ocean: I love the sea and I try to help replenish it's wildlife whenever I can. I made a website using HTML and CSS in the summer of 7th and 8th grade: https://helpsavetheseas.com   
