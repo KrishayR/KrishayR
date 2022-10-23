@@ -10,6 +10,8 @@
 
 
       - 👨🏽‍💻 Programming: I enjoy a challenge, so programming is very fun for me. I have expertise with programming languages like Python, HTML, CSS, JavaScript, and I am learning Java.
+      
+      - Like to participate in hackathons and have won a couple
 
 
       - I also like to solve puzzles and rubik's cubes, design some games on Unity, and to help people! (Have an active account on StackOverflow: https://stackoverflow.com/users/14771613/krmogi)
