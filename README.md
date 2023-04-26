@@ -1,7 +1,7 @@
   [![HitCount](https://hits.dwyl.com/KrishayR/KrishayR/KrishayR.svg?style=flat-square&show=unique)](http://hits.dwyl.com/KrishayR/KrishayR/KrishayR)
 
 
-- 👋 Hi, I’m Krishay Rastogi (@KrishayR)
+- 👋 Hi, I’m Krishay Rastogi (@KrishayR). I am a fullstack developer who specializes in computer vision, AI/ML, and making sleek frontends.
 - 👀 I’m interested in...
 
       - 🌊 The Ocean: I love the sea and I try to help replenish it's wildlife whenever I can. Check out this website I developed: helpsavetheseas.com
@@ -14,7 +14,7 @@
 
       - 👨🏽‍💻 Programming: I enjoy a challenge, so programming is very fun for me. I have expertise with programming languages like Python, HTML, CSS, JavaScript, and I am learning Java.
       
-      - Like to participate in hackathons and have won a couple
+      - 👨 Hackathons: I like to participate in hackathons and have won many. www.devpost.com/KrishayR 
 
 
       - I also like to solve puzzles and rubik's cubes, design some games on Unity, and to help people! (Have an active account on StackOverflow: https://stackoverflow.com/users/14771613/krmogi)
