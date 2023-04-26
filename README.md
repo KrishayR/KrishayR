@@ -1,4 +1,4 @@
-  [![HitCount](https://hits.dwyl.com/KrishayR/KrishayR/KrishayR.svg?style=flat-square)](http://hits.dwyl.com/KrishayR/KrishayR/KrishayR)
+  [![HitCount](https://hits.dwyl.com/KrishayR/KrishayR/KrishayR.svg?style=flat-square&show=unique)](http://hits.dwyl.com/KrishayR/KrishayR/KrishayR)
 
 
 - 👋 Hi, I’m Krishay Rastogi (@KrishayR)
