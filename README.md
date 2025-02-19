@@ -1,4 +1,4 @@
-  [![HitCount](https://hits.dwyl.com/KrishayR/KrishayR/KrishayR.svg?style=flat-square&show=unique)](http://hits.dwyl.com/KrishayR/KrishayR/KrishayR)
+  [![HitCount](https://hits.dwyl.com/KrishayR/{project}.svg?style=flat-square)](http://hits.dwyl.com/KrishayR/{project})
 
 
 - 👋 Hi, I’m Krishay Rastogi (@KrishayR). I am a fullstack developer who specializes in computer vision, AI/ML, and making sleek frontends.
